@@ -1,0 +1,7 @@
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\MyMVCAPPExample.exe
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\MyMVCAPPExample.dll
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\MyMVCAPPExample.deps.json
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\MyMVCAPPExample.runtimeconfig.json
+C:\TestDev\GitHub\MyMVCAPPExample\MyMVCAPPExample\obj\Release\net8.0\PubTmp\Out\MyMVCAPPExample.pdb
